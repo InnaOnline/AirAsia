@@ -67,7 +67,7 @@ margin-top: 0;
 }
 
 .main-page-wrapper {
-background:url(/img/1.png) center top no-repeat, url(/img/2.png) right 60px bottom 200px no-repeat;
+background:url("../../img/1.png") center top no-repeat, url("../../img/2.png") right 60px bottom 200px no-repeat;
 }
 
 .container {
