@@ -102,9 +102,9 @@ margin-top: 0;
 }
 
 .top-line {
-  min-height: 411px;
-    padding-bottom: 0px;
-    background: url("../../img/headline.png") center bottom no-repeat, linear-gradient(90deg, #01131d, #002e3b);
+min-height: 411px;
+padding-bottom: 0px;
+background: url("../../img/headline.png") center bottom no-repeat, linear-gradient(90deg, #01131d, #002e3b);
 }
 
 .page-content {
