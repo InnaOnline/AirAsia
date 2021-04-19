@@ -9,21 +9,21 @@
     } 
     
     .about:before {
-        content: "";
-        width: 488px;
-        height: 502px;
-        background: url("/img/gates.jpg") center center / cover no-repeat;
-        margin-right: 0;  
+    content: "";
+    width: 488px;
+    height: 502px;
+background: url("../../img/gates.jpg") center center / cover no-repeat;
+    margin-right: 0;  
     }  
     
     .about__desc {
-        padding: 70px 82px;
-        max-width: 790px;
-        background: url("/img/mountains.jpg") center center / cover no-repeat;
-        margin-left: -141px;
-        margin-top: 98px;
-        min-height: 454px;
-        flex: auto;
+    padding: 70px 82px;
+    max-width: 790px;
+background: url("../../img/mountains.jpg") center center / cover no-repeat;
+    margin-left: -141px;
+    margin-top: 98px;
+    min-height: 454px;
+    flex: auto;
     }
     
     .about__desc-text {
