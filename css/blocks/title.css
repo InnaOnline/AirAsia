@@ -1,0 +1,48 @@
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 49px;
+   color: #FFFFFF;    
+    font-style: normal;   
+    width: 325px;
+    display: inline-block; 
+}
+
+.offer__title {
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 21px;
+}
+
+.single-news__title {
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.about__title {
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 37px;
+}
+
+.service__title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: 13px;
+    color: #000000;
+    line-height: 49px;
+}
+
+.inner-section__title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 62px;
+}
+
+.page-title {
+    font-size: 72px;
+    line-height: 1;
+    font-weight: bold;
+}
